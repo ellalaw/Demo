@@ -7,7 +7,8 @@ public class MenuManager : MonoBehaviour
 {
     public void StartGame()
     {
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("LevelSelect");
+        //Debug.Log(SceneManager.GetSceneByName("LevelSelect").name);
     }
 
     public void QuitGame()
@@ -17,12 +18,12 @@ public class MenuManager : MonoBehaviour
 
     public void BackHome()
     {
-        //SceneManager.LoadScene(SceneManager.GetSceneByName("Menu").buildIndex);
+        SceneManager.LoadScene("Menu");
     }
 
     public void GotoLevelOne()
     {
-        //SceneManager.LoadScene(SceneManager.GetSceneByName("Scenes/level1").name);
+        SceneManager.LoadScene("level1");
     }
 
     public void GoNext()
