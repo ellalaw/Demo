@@ -28,6 +28,7 @@ public class MenuManager : MonoBehaviour
 
     public void GoNext()
     {
+        //TODO: build settings??scenes index??????
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
