@@ -86,6 +86,11 @@ public class DragDropHandler : MonoBehaviour, IDragHandler,
     void OnTriggerEnter2D(Collider2D collidedObject)
     {
         //int uiLayer = LayerMask.NameToLayer("UI"); 等于5
+
+        //Debug.Log(gameObject.name);
+        //TODO: 可以不用collidedObj来判断，用当前的gameObject.name+'BG'即可
+        //TODO2: 判断碰撞时用collider object is touching layers，这个适用于碰撞地面，有统一属性的层
+
         if (collidedObj.gameObject.name == collidedObject.gameObject.name)
         {
             findBG = true;
@@ -100,5 +105,4 @@ public class DragDropHandler : MonoBehaviour, IDragHandler,
     {
         findBG = false;
     }
-
 }

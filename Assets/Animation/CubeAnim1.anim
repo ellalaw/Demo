@@ -205,7 +205,7 @@ AnimationClip:
   m_Events:
   - time: 0.8333333
     functionName: PrintEvent
-    data: I am a cube object
+    data: I am a cube object.
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
