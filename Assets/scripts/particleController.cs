@@ -90,4 +90,9 @@ public class particleController : MonoBehaviour
         }
         psys.SetParticles(particleArr, particleArr.Length);
     }
+
+    public void readyToShow()
+    {
+        gameObject.SetActive(true);
+    }
 }

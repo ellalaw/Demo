@@ -7,6 +7,7 @@ public class SuccessJudgement : MonoBehaviour
     [HideInInspector]
     public int totalFinished = 0;
     public GameObject filledObj = null;
+    public GameObject particleObj = null;
 
     private void Start()
     {
@@ -27,5 +28,6 @@ public class SuccessJudgement : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         this.gameObject.SetActive(false);
         filledObj.GetComponent<objectDisplay>().readyToDisplay();
+        particleObj.GetComponent<particleController>().readyToShow();
     }
 }
