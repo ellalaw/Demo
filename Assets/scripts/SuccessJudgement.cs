@@ -20,6 +20,7 @@ public class SuccessJudgement : MonoBehaviour
         if (gameObject.GetComponentsInChildren<PolygonCollider2D>().Length == totalFinished)
         {
             StartCoroutine(pause());
+            // Invoke("methodName", delayTime);
         }
     }
 

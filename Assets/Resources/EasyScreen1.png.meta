@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: b257335f7a1844c0f996b0ef567fbc66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7722097055762925862
+    second: EasyScreen1_0
+  - first:
+      213: -790078723954316490
+    second: EasyScreen1_1
+  - first:
+      213: 5423966478289403907
+    second: EasyScreen1_2
+  - first:
+      213: 8496708862258260693
+    second: EasyScreen1_3
+  - first:
+      213: 8483664669674543506
+    second: EasyScreen1_4
+  - first:
+      213: -253197251837250298
+    second: EasyScreen1_5
+  - first:
+      213: -1177974243929462262
+    second: EasyScreen1_6
+  - first:
+      213: 5724897858517608061
+    second: EasyScreen1_7
+  - first:
+      213: -6999295827221159748
+    second: EasyScreen1_8
+  - first:
+      213: 6235242916597483949
+    second: EasyScreen1_9
+  - first:
+      213: 2079480154198171603
+    second: EasyScreen1_10
+  - first:
+      213: -8597369536773969331
+    second: EasyScreen1_11
+  - first:
+      213: 6991445779233293628
+    second: EasyScreen1_12
+  - first:
+      213: -5676785745401049302
+    second: EasyScreen1_13
+  - first:
+      213: 8174841409881927979
+    second: EasyScreen1_14
+  - first:
+      213: 2759189821029632392
+    second: EasyScreen1_15
+  - first:
+      213: -8795319259454084329
+    second: EasyScreen1_16
+  - first:
+      213: -5029701766478126687
+    second: EasyScreen1_17
+  - first:
+      213: -4497995728929755134
+    second: EasyScreen1_18
+  - first:
+      213: 2642648790061098011
+    second: EasyScreen1_19
+  - first:
+      213: -7908119983274655154
+    second: EasyScreen1_20
+  - first:
+      213: 1462940655278114503
+    second: EasyScreen1_21
+  - first:
+      213: 4380924777736240928
+    second: EasyScreen1_22
+  - first:
+      213: -4346410864548150347
+    second: EasyScreen1_23
+  - first:
+      213: 320039711322161891
+    second: EasyScreen1_24
+  - first:
+      213: 2808668955820286312
+    second: EasyScreen1_25
+  - first:
+      213: 5519314765956606061
+    second: EasyScreen1_26
+  - first:
+      213: 6313748065553257573
+    second: EasyScreen1_27
+  - first:
+      213: 1088393330309314852
+    second: EasyScreen1_28
+  - first:
+      213: -8767374611326266885
+    second: EasyScreen1_29
+  - first:
+      213: 3150200343163697004
+    second: EasyScreen1_30
+  - first:
+      213: 8381635554871413250
+    second: EasyScreen1_31
+  - first:
+      213: 4152440918904222106
+    second: EasyScreen1_32
+  - first:
+      213: 7596944017382698727
+    second: EasyScreen1_33
+  - first:
+      213: 5598641976915797093
+    second: EasyScreen1_34
+  - first:
+      213: 2381920825393092617
+    second: EasyScreen1_35
+  - first:
+      213: 4122037248293916762
+    second: EasyScreen1_36
+  - first:
+      213: 6043113359664079161
+    second: EasyScreen1_37
+  - first:
+      213: 6005512504374152615
+    second: EasyScreen1_38
+  - first:
+      213: 4015344042687500199
+    second: EasyScreen1_39
+  - first:
+      213: 385995225386055726
+    second: EasyScreen1_40
+  - first:
+      213: -4576283693464885897
+    second: EasyScreen1_41
+  - first:
+      213: -3607860355417748294
+    second: EasyScreen1_42
+  - first:
+      213: -5424829947890846856
+    second: EasyScreen1_43
+  - first:
+      213: 7290194340290818733
+    second: EasyScreen1_44
+  - first:
+      213: -4557198796073100064
+    second: EasyScreen1_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EasyScreen1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1278
+        width: 1024
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6392624a995d490800000000000000
+      internalID: -7722097055762925862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1022
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63beb1a26931905f0800000000000000
+      internalID: -790078723954316490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_2
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1872
+        width: 221
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300011c46ccc54b40800000000000000
+      internalID: 5423966478289403907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_3
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1707
+        width: 218
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da21d651bf5ae570800000000000000
+      internalID: 8496708862258260693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_4
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1445
+        width: 213
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999b7591180cb570800000000000000
+      internalID: 8483664669674543506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_5
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1282
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b222e0767c7cf0800000000000000
+      internalID: -253197251837250298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 508
+        width: 1024
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a66049aaef6afe0800000000000000
+      internalID: -1177974243929462262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_7
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 857
+        width: 170
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762650454ce27f40800000000000000
+      internalID: 5724897858517608061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_8
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1008
+        width: 202
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0eb9c67818dde90800000000000000
+      internalID: -6999295827221159748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_9
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 742
+        width: 129
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9401c9568088650800000000000000
+      internalID: 6235242916597483949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_10
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 742
+        width: 129
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd474ce2ccbdc10800000000000000
+      internalID: 2079480154198171603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_11
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 835
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa2d505f100b880800000000000000
+      internalID: -8597369536773969331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_12
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 861
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ca99d4ea960160800000000000000
+      internalID: 6991445779233293628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_13
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 861
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8e5301710831b0800000000000000
+      internalID: -5676785745401049302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_14
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 662
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217a2b33fed27170800000000000000
+      internalID: 8174841409881927979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_15
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 683
+        width: 163
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889485ef58c9a4620800000000000000
+      internalID: 2759189821029632392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_16
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 683
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b661eabbfb0f580800000000000000
+      internalID: -8795319259454084329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_17
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 741
+        width: 166
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1aae254e8e23ab0800000000000000
+      internalID: -5029701766478126687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_18
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 543
+        width: 188
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200fae747b8e391c0800000000000000
+      internalID: -4497995728929755134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_19
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 565
+        width: 129
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1425bdb2139ca420800000000000000
+      internalID: 2642648790061098011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_20
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 489
+        width: 163
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420fb336c6b04290800000000000000
+      internalID: -7908119983274655154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_21
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 510
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6445566c86d4410800000000000000
+      internalID: 1462940655278114503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_22
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 591
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffcaccfdb2ccc30800000000000000
+      internalID: 4380924777736240928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 186
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b385b2d8527ea3c0800000000000000
+      internalID: -4346410864548150347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 226
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2406bfb62017400800000000000000
+      internalID: 320039711322161891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 228
+        width: 136
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e55bc8856af620800000000000000
+      internalID: 2808668955820286312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 237
+        width: 133
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68696c798b889c40800000000000000
+      internalID: 5519314765956606061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 237
+        width: 131
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649c98f960fe9750800000000000000
+      internalID: 6313748065553257573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_28
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 236
+        width: 131
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429bdf4a7ffba1f00800000000000000
+      internalID: 1088393330309314852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_29
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 238
+        width: 131
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19e171e37045680800000000000000
+      internalID: -8767374611326266885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_30
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 345
+        width: 164
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f5998582c7bb20800000000000000
+      internalID: 3150200343163697004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_31
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 366
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a05ec112d815470800000000000000
+      internalID: 8381635554871413250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_32
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 369
+        width: 169
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a913512e30f60a930800000000000000
+      internalID: 4152440918904222106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeef9e5554cd6960800000000000000
+      internalID: 7596944017382698727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 21
+        width: 168
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56428a2173f52bd40800000000000000
+      internalID: 5598641976915797093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 23
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90819a8ee584e0120800000000000000
+      internalID: 2381920825393092617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 31
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50dc7fa90b643930800000000000000
+      internalID: 4122037248293916762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 37
+        width: 168
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e13435937dd350800000000000000
+      internalID: 6043113359664079161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_38
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 37
+        width: 156
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad436dddcdd75350800000000000000
+      internalID: 6005512504374152615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_39
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 39
+        width: 188
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8e53f12e59b730800000000000000
+      internalID: 4015344042687500199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_40
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 149
+        width: 171
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f126cc945b5500800000000000000
+      internalID: 385995225386055726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_41
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 191
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ec9b1a36cd70c0800000000000000
+      internalID: -4576283693464885897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_42
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 213
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4c1c3f1e4eedc0800000000000000
+      internalID: -3607860355417748294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_43
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 5
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873b01587e127b4b0800000000000000
+      internalID: -5424829947890846856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_44
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 9
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f89c9029fb2560800000000000000
+      internalID: 7290194340290818733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EasyScreen1_45
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 58
+        width: 144
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec993d07d391c0c0800000000000000
+      internalID: -4557198796073100064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

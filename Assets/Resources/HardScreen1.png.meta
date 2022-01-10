@@ -1,0 +1,2064 @@
+fileFormatVersion: 2
+guid: 6bb3b1d5460c44d4a8a1b8f766e4b9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2641761891946715558
+    second: HardScreen1_0
+  - first:
+      213: -2392706289479376604
+    second: HardScreen1_1
+  - first:
+      213: -6634693019524887924
+    second: HardScreen1_2
+  - first:
+      213: -903566805258381578
+    second: HardScreen1_3
+  - first:
+      213: -3928482077119302997
+    second: HardScreen1_4
+  - first:
+      213: 4892900426267908554
+    second: HardScreen1_5
+  - first:
+      213: 3069190146250166510
+    second: HardScreen1_6
+  - first:
+      213: 6371591294174347004
+    second: HardScreen1_7
+  - first:
+      213: -4703324363301104371
+    second: HardScreen1_8
+  - first:
+      213: -1084617582247606417
+    second: HardScreen1_9
+  - first:
+      213: -8560660486228286743
+    second: HardScreen1_10
+  - first:
+      213: -4103027332445403560
+    second: HardScreen1_11
+  - first:
+      213: 6920963605788722219
+    second: HardScreen1_12
+  - first:
+      213: -2553968298575344522
+    second: HardScreen1_13
+  - first:
+      213: 4731828702610247693
+    second: HardScreen1_14
+  - first:
+      213: -2947905961508056878
+    second: HardScreen1_15
+  - first:
+      213: 3250805148500252505
+    second: HardScreen1_16
+  - first:
+      213: -6687293922093474666
+    second: HardScreen1_17
+  - first:
+      213: -6809564871005141561
+    second: HardScreen1_18
+  - first:
+      213: -7726903507039036723
+    second: HardScreen1_19
+  - first:
+      213: 2869202706951076805
+    second: HardScreen1_20
+  - first:
+      213: 8441066103695818965
+    second: HardScreen1_21
+  - first:
+      213: -5563844050440602302
+    second: HardScreen1_22
+  - first:
+      213: -7010567542571706262
+    second: HardScreen1_23
+  - first:
+      213: 1665282260980381397
+    second: HardScreen1_24
+  - first:
+      213: 5001393370863641803
+    second: HardScreen1_25
+  - first:
+      213: -7630898686670749665
+    second: HardScreen1_26
+  - first:
+      213: -4619817105604424421
+    second: HardScreen1_27
+  - first:
+      213: -6442975849447424348
+    second: HardScreen1_28
+  - first:
+      213: 1529703199872543387
+    second: HardScreen1_29
+  - first:
+      213: -1397168260317162972
+    second: HardScreen1_30
+  - first:
+      213: -323857295271141491
+    second: HardScreen1_31
+  - first:
+      213: 7004593564637708060
+    second: HardScreen1_32
+  - first:
+      213: 6815596542319732402
+    second: HardScreen1_33
+  - first:
+      213: -1471782913420576801
+    second: HardScreen1_34
+  - first:
+      213: 5269895794416162458
+    second: HardScreen1_35
+  - first:
+      213: 6507814825448387629
+    second: HardScreen1_36
+  - first:
+      213: -9011342054786942519
+    second: HardScreen1_37
+  - first:
+      213: -591912772156895785
+    second: HardScreen1_38
+  - first:
+      213: 6966856601301705037
+    second: HardScreen1_39
+  - first:
+      213: -7939280424890092189
+    second: HardScreen1_40
+  - first:
+      213: 5831447720736783194
+    second: HardScreen1_41
+  - first:
+      213: 3600552122283163763
+    second: HardScreen1_42
+  - first:
+      213: 6912567344233805961
+    second: HardScreen1_43
+  - first:
+      213: -298359431604350678
+    second: HardScreen1_44
+  - first:
+      213: -6606577301566940110
+    second: HardScreen1_45
+  - first:
+      213: 3781181646663146866
+    second: HardScreen1_46
+  - first:
+      213: 2928115860430106319
+    second: HardScreen1_47
+  - first:
+      213: -4773234635399970278
+    second: HardScreen1_48
+  - first:
+      213: -3456666402593012064
+    second: HardScreen1_49
+  - first:
+      213: -8535886864736569727
+    second: HardScreen1_50
+  - first:
+      213: 6361267494956461753
+    second: HardScreen1_51
+  - first:
+      213: -7082434124886030205
+    second: HardScreen1_52
+  - first:
+      213: -5365340834670956232
+    second: HardScreen1_53
+  - first:
+      213: 4225702283921775737
+    second: HardScreen1_54
+  - first:
+      213: -1927415087877572001
+    second: HardScreen1_55
+  - first:
+      213: 2076536729973585431
+    second: HardScreen1_56
+  - first:
+      213: -6192328492014470517
+    second: HardScreen1_57
+  - first:
+      213: 2074783999423590390
+    second: HardScreen1_58
+  - first:
+      213: -6905881422090921080
+    second: HardScreen1_59
+  - first:
+      213: 7288075520166902401
+    second: HardScreen1_60
+  - first:
+      213: -1537606416671571584
+    second: HardScreen1_61
+  - first:
+      213: -669647110634462683
+    second: HardScreen1_62
+  - first:
+      213: -3779889174077641423
+    second: HardScreen1_63
+  - first:
+      213: -4557524710158507682
+    second: HardScreen1_64
+  - first:
+      213: 3274642048890385140
+    second: HardScreen1_65
+  - first:
+      213: 9013957688250022542
+    second: HardScreen1_66
+  - first:
+      213: -4394235209229566836
+    second: HardScreen1_67
+  - first:
+      213: -152520466822274523
+    second: HardScreen1_68
+  - first:
+      213: 5459416623979615264
+    second: HardScreen1_69
+  - first:
+      213: 7949955633514317667
+    second: HardScreen1_70
+  - first:
+      213: -1822574087918447014
+    second: HardScreen1_71
+  - first:
+      213: 8576696644658884164
+    second: HardScreen1_72
+  - first:
+      213: -4154458251427264930
+    second: HardScreen1_73
+  - first:
+      213: 2558066278310209846
+    second: HardScreen1_74
+  - first:
+      213: -8689591663051024845
+    second: HardScreen1_75
+  - first:
+      213: 5668436329468083060
+    second: HardScreen1_76
+  - first:
+      213: -3051167479791072992
+    second: HardScreen1_77
+  - first:
+      213: 2294908980294261810
+    second: HardScreen1_78
+  - first:
+      213: -3730920563011294048
+    second: HardScreen1_79
+  - first:
+      213: -1425482106097065520
+    second: HardScreen1_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HardScreen1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 1026
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562a515e83965bd0800000000000000
+      internalID: -2641761891946715558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1022
+        width: 770
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212dbb8e466bced0800000000000000
+      internalID: -2392706289479376604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_2
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1895
+        width: 234
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8471d9d5dce3a0800000000000000
+      internalID: -6634693019524887924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_3
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1739
+        width: 229
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f65db527c2e573f0800000000000000
+      internalID: -903566805258381578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_4
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1584
+        width: 229
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b0d66d5a3b79c0800000000000000
+      internalID: -3928482077119302997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_5
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1429
+        width: 221
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95e05930317e340800000000000000
+      internalID: 4892900426267908554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_6
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1280
+        width: 225
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0de5f3d24f79a20800000000000000
+      internalID: 3069190146250166510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 1026
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfebb3f16807c6850800000000000000
+      internalID: 6371591294174347004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_8
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1131
+        width: 225
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055ffd296f6abeb0800000000000000
+      internalID: -4703324363301104371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 845
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670df43e0aa2f0f0800000000000000
+      internalID: -1084617582247606417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_10
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 850
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e3a3e4ac623980800000000000000
+      internalID: -8560660486228286743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_11
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 813
+        width: 208
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568fd1416e1f07c0800000000000000
+      internalID: -4103027332445403560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_12
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 851
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24817a0bb33c0060800000000000000
+      internalID: 6920963605788722219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_13
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 832
+        width: 222
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ccecb2d5b7e8cd0800000000000000
+      internalID: -2553968298575344522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_14
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 546
+        width: 254
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d41d7225daa140800000000000000
+      internalID: 4731828702610247693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_15
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 643
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05e0d852fe617d0800000000000000
+      internalID: -2947905961508056878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_16
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 647
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575e5e1f0e2d1d20800000000000000
+      internalID: 3250805148500252505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_17
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 677
+        width: 215
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5df0db95f133a0800000000000000
+      internalID: -6687293922093474666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 254
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c582c414d09f71a0800000000000000
+      internalID: -6809564871005141561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 342
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad731033684c490800000000000000
+      internalID: -7726903507039036723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 219
+        width: 253
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb786809a471d720800000000000000
+      internalID: 2869202706951076805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_21
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 210
+        width: 218
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0416c06e0b42570800000000000000
+      internalID: 8441066103695818965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_22
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 288
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d31db805149c2b0800000000000000
+      internalID: -5563844050440602302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 471
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68512fa6f575be90800000000000000
+      internalID: -7010567542571706262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_24
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 442
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6be70b4654c1710800000000000000
+      internalID: 1665282260980381397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_25
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 473
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc42254b5c4886540800000000000000
+      internalID: 5001393370863641803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_26
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 298
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10ceff131a991690800000000000000
+      internalID: -7630898686670749665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_27
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 289
+        width: 253
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dcc2db1dc13efb0800000000000000
+      internalID: -4619817105604424421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_28
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 301
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef34de993f596a0800000000000000
+      internalID: -6442975849447424348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_29
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 231
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6e20a4f89a3510800000000000000
+      internalID: 1529703199872543387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_30
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 31
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225858aed24c9ce0800000000000000
+      internalID: -1397168260317162972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_31
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 130
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd17d718d618bf0800000000000000
+      internalID: -323857295271141491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_32
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 221
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb7303cb0553160800000000000000
+      internalID: 7004593564637708060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_33
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62955d1fcd59e50800000000000000
+      internalID: 6815596542319732402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_34
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 215
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b313fc3d239be0800000000000000
+      internalID: -1471782913420576801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_35
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 214
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96108dcd4e622940800000000000000
+      internalID: 5269895794416162458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 206
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243fd69a17605a50800000000000000
+      internalID: 6507814825448387629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 202
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9b2e2352841f280800000000000000
+      internalID: -9011342054786942519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 208
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd4295487a19c7f0800000000000000
+      internalID: -591912772156895785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_39
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 204
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416ca9ba2f3fa060800000000000000
+      internalID: 6966856601301705037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_40
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 178
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b636848202d190800000000000000
+      internalID: -7939280424890092189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_41
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 195
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf6c04ec67de050800000000000000
+      internalID: 5831447720736783194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_42
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 200
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37087f3241bb7f130800000000000000
+      internalID: 3600552122283163763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 206
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988750f006f5eef50800000000000000
+      internalID: 6912567344233805961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_44
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2
+        width: 214
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d5df7da30cdbf0800000000000000
+      internalID: -298359431604350678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 190
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c91f682f8b054a0800000000000000
+      internalID: -6606577301566940110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d55909ca4797430800000000000000
+      internalID: 3781181646663146866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 187
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceaf1a7cd1c2a820800000000000000
+      internalID: 2928115860430106319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_48
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 192
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c467836012cdb0800000000000000
+      internalID: -4773234635399970278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68a6698347700d0800000000000000
+      internalID: -3456666402593012064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 173
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18634702f107a8980800000000000000
+      internalID: -8535886864736569727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 171
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be6e1e4513c74850800000000000000
+      internalID: 6361267494956461753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_52
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388401110b326bd90800000000000000
+      internalID: -7082434124886030205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 165
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313a8a00fa7a85b0800000000000000
+      internalID: -5365340834670956232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 153
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd6b7a6d5b4aa30800000000000000
+      internalID: 4225702283921775737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a345080327045e0800000000000000
+      internalID: -1927415087877572001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 153
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167029672751dc10800000000000000
+      internalID: 2076536729973585431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_57
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a72fc7b0e601aa0800000000000000
+      internalID: -6192328492014470517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_58
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffae470e0d1bcc10800000000000000
+      internalID: 2074783999423590390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 148
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b1d4f7f616920a0800000000000000
+      internalID: -6905881422090921080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_60
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 131
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab4cb5212742560800000000000000
+      internalID: 7288075520166902401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_61
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 139
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810ee15c1359aae0800000000000000
+      internalID: -1537606416671571584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_62
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 142
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52224c5308fe4b6f0800000000000000
+      internalID: -669647110634462683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_63
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 148
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de1c8a2d22b8bc0800000000000000
+      internalID: -3779889174077641423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_64
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51efe34c6b60c0c0800000000000000
+      internalID: -4557524710158507682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23baaf79dd17d20800000000000000
+      internalID: 3274642048890385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 134
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a3b8c62c2081d70800000000000000
+      internalID: 9013957688250022542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 137
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7b5edb5a8403c0800000000000000
+      internalID: -4394235209229566836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_68
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e41a817322edf0800000000000000
+      internalID: -152520466822274523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024da298e7eb3cb40800000000000000
+      internalID: 5459416623979615264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3678cbb278ae35e60800000000000000
+      internalID: 7949955633514317667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a561ac0068ae4b6e0800000000000000
+      internalID: -1822574087918447014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_72
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 7
+        width: 261
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6d23382c860770800000000000000
+      internalID: 8576696644658884164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_73
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 12
+        width: 255
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56cc794b366856c0800000000000000
+      internalID: -4154458251427264930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e5961ab3108320800000000000000
+      internalID: 2558066278310209846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336d5a00c6e586780800000000000000
+      internalID: -8689591663051024845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 88
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3dd91fc45aae40800000000000000
+      internalID: 5668436329468083060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 89
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02944d8c75318a5d0800000000000000
+      internalID: -3051167479791072992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1b420f8729df10800000000000000
+      internalID: 2294908980294261810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace284e38b193cc0800000000000000
+      internalID: -3730920563011294048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardScreen1_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 69
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a868b39ba73ce0800000000000000
+      internalID: -1425482106097065520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

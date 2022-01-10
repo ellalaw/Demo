@@ -15,6 +15,6 @@ public class objectDisplay : MonoBehaviour
     public void readyToDisplay()
     {
         this.gameObject.SetActive(true);
-        Instantiate(VFXPrefab, transform.position, transform.rotation);
+        //Instantiate(VFXPrefab, transform.position, transform.rotation);
     }
 }

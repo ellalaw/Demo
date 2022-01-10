@@ -40,6 +40,7 @@ public class DragDropHandler : MonoBehaviour, IDragHandler,
     {
         transform.localScale = new Vector3(0.8f, 0.8f, 0.8f);
         transform.position = eventData.position;
+        Debug.Log(eventData.pointerCurrentRaycast.gameObject.name);
 
         //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.up);
         //eventData.pointerCurrentRaycast.gameObject.name
